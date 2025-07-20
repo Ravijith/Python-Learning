@@ -1,9 +1,1 @@
-# newcoding
-python beginner
-
-Updated readme files 
-
-
-Pushed new change 
-
-123
+This is a new repository for learning python
